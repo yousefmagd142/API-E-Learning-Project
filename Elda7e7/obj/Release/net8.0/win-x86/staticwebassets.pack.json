@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\ProfileData\\0f59c563-95f1-495e-99a7-f4e1ce1b9209.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ProfileData\\0f59c563-95f1-495e-99a7-f4e1ce1b9209.jpeg"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\ProfileData\\b343f917-57ca-48fd-810f-3d59156d0c10.mp4",
+      "PackagePath": "staticwebassets\\uploads\\ProfileData\\b343f917-57ca-48fd-810f-3d59156d0c10.mp4"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\covers\\95fda266-c1db-456d-ae74-59b177a65816.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\covers\\95fda266-c1db-456d-ae74-59b177a65816.jpeg"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\covers\\eb7224ad-bce2-4cf3-a65f-9fb9dd0b6382.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\covers\\eb7224ad-bce2-4cf3-a65f-9fb9dd0b6382.jpeg"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\videos\\LessonVideos\\0c105503-ea3f-4f60-8979-207a6610b587.mkv",
+      "PackagePath": "staticwebassets\\uploads\\videos\\LessonVideos\\0c105503-ea3f-4f60-8979-207a6610b587.mkv"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\videos\\LessonVideos\\32f046a1-d567-4297-8fdf-6a428aaedd78.mkv",
+      "PackagePath": "staticwebassets\\uploads\\videos\\LessonVideos\\32f046a1-d567-4297-8fdf-6a428aaedd78.mkv"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\videos\\LessonVideos\\3b951ed2-ae50-4707-9f56-df008c81a783.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\LessonVideos\\3b951ed2-ae50-4707-9f56-df008c81a783.mp4"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\videos\\LessonVideos\\742eeb6b-560d-4f9e-92a4-11c06060326e.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\videos\\LessonVideos\\742eeb6b-560d-4f9e-92a4-11c06060326e.jpeg"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\videos\\LessonVideos\\9e55dcdf-73af-47ea-8d00-3d14a73efe9c.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\LessonVideos\\9e55dcdf-73af-47ea-8d00-3d14a73efe9c.mp4"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\videos\\LessonVideos\\cae03315-f875-4910-a3f8-51dd736e8b9f.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\LessonVideos\\cae03315-f875-4910-a3f8-51dd736e8b9f.mp4"
+    },
+    {
+      "Id": "D:\\APIs\\Elda7e7\\Elda7e7\\wwwroot\\uploads\\videos\\LessonVideos\\f70aadde-d0ee-4b7b-8522-4281af9d953d.mkv",
+      "PackagePath": "staticwebassets\\uploads\\videos\\LessonVideos\\f70aadde-d0ee-4b7b-8522-4281af9d953d.mkv"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.Elda7e7.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.Elda7e7.props",
+      "PackagePath": "build\\Elda7e7.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.Elda7e7.props",
+      "PackagePath": "buildMultiTargeting\\Elda7e7.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.Elda7e7.props",
+      "PackagePath": "buildTransitive\\Elda7e7.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

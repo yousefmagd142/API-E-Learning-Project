@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Elda7e7.props" />
+</Project>

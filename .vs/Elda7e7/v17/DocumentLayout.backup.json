@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APIs\\Elda7e7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C75157-3159-412C-B2CE-18FCF0E572E4}|BusinessLayer\\BusinessLayer.csproj|d:\\apis\\elda7e7\\businesslayer\\repository\\iuseraccountregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C75157-3159-412C-B2CE-18FCF0E572E4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\repository\\iuseraccountregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1748C011-71F7-4CF4-9B31-DD25B79316D9}|Elda7e7\\Elda7e7.csproj|d:\\apis\\elda7e7\\elda7e7\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1748C011-71F7-4CF4-9B31-DD25B79316D9}|Elda7e7\\Elda7e7.csproj|solutionrelative:elda7e7\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C75157-3159-412C-B2CE-18FCF0E572E4}|BusinessLayer\\BusinessLayer.csproj|d:\\apis\\elda7e7\\businesslayer\\repository\\useraccountregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C75157-3159-412C-B2CE-18FCF0E572E4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\repository\\useraccountregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserAccountRegisteration.cs",
+              "DocumentMoniker": "D:\\APIs\\Elda7e7\\BusinessLayer\\Repository\\IUserAccountRegisteration.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Repository\\IUserAccountRegisteration.cs",
+              "ToolTip": "D:\\APIs\\Elda7e7\\BusinessLayer\\Repository\\IUserAccountRegisteration.cs",
+              "RelativeToolTip": "BusinessLayer\\Repository\\IUserAccountRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:23:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccountRegisteration.cs",
+              "DocumentMoniker": "D:\\APIs\\Elda7e7\\BusinessLayer\\Repository\\UserAccountRegisteration.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Repository\\UserAccountRegisteration.cs",
+              "ToolTip": "D:\\APIs\\Elda7e7\\BusinessLayer\\Repository\\UserAccountRegisteration.cs",
+              "RelativeToolTip": "BusinessLayer\\Repository\\UserAccountRegisteration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAABBwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:17:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccountController.cs",
+              "DocumentMoniker": "D:\\APIs\\Elda7e7\\Elda7e7\\Controllers\\UserAccountController.cs",
+              "RelativeDocumentMoniker": "Elda7e7\\Controllers\\UserAccountController.cs",
+              "ToolTip": "D:\\APIs\\Elda7e7\\Elda7e7\\Controllers\\UserAccountController.cs",
+              "RelativeToolTip": "Elda7e7\\Controllers\\UserAccountController.cs",
+              "ViewState": "AgIAABUAAABgZmZmZmYkwIsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:38:07.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

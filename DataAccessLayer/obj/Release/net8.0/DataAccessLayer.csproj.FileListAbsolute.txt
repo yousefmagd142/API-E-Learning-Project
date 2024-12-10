@@ -1,0 +1,14 @@
+D:\APIs\Elda7e7\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.deps.json
+D:\APIs\Elda7e7\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.runtimeconfig.json
+D:\APIs\Elda7e7\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.dll
+D:\APIs\Elda7e7\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.pdb
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.dll
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\refint\DataAccessLayer.dll
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.pdb
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\APIs\Elda7e7\DataAccessLayer\obj\Release\net8.0\ref\DataAccessLayer.dll
